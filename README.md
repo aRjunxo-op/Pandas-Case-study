@@ -1,1 +1,1 @@
-internal assesment case stuyd using pandas
+internal assesment case study using pandas
